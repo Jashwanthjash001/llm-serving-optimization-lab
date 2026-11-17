@@ -1,0 +1,38 @@
+[
+  {
+    "concurrency": 1,
+    "ok": 1,
+    "failed": 0,
+    "wall": 4.250908457994228,
+    "ttft_p50": 0.13448208299814723,
+    "ttft_p95": 0.13448208299814723,
+    "decode_tps_mean": 30.8539123909929,
+    "tokens_per_req": 128,
+    "aggregate_tps": 30.11121064234731,
+    "errors": []
+  },
+  {
+    "concurrency": 1,
+    "ok": 1,
+    "failed": 0,
+    "wall": 4.161295708006946,
+    "ttft_p50": 0.054437250015325844,
+    "ttft_p95": 0.054437250015325844,
+    "decode_tps_mean": 30.92617596102761,
+    "tokens_per_req": 128,
+    "aggregate_tps": 30.759650114196194,
+    "errors": []
+  },
+  {
+    "concurrency": 1,
+    "ok": 1,
+    "failed": 0,
+    "wall": 4.153937124996446,
+    "ttft_p50": 0.057753208006033674,
+    "ttft_p95": 0.057753208006033674,
+    "decode_tps_mean": 31.0064924116491,
+    "tokens_per_req": 128,
+    "aggregate_tps": 30.81413997091001,
+    "errors": []
+  }
+]
